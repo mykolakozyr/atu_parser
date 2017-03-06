@@ -1,6 +1,4 @@
 # atu_parser
-Ministry of Regional Development Construction and Housing and Communal Services of Ukraine with Ukraine State Service of Geodesy, Cartography and Cadastre provide API access to official Spatial Data. Parsing throught all the features would give us official information about Ukraine's administrarive units' bounds
-
 Геопортал адміністративно-територіального устрою (АТУ) України ( http://atu.minregion.gov.ua/ua/karta ) містить офіційну інформацію про межі кожного об'єкту АТУ.
 
 Приклади формату збереження даних:
