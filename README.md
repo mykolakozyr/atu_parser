@@ -3,7 +3,7 @@
 
 Приклади формату збереження даних:
 
-[Межі областей, районів, міст обласного значення, селищних раз, сільських рад](http://atu.minregion.gov.ua/api/format/region_template/ato.ato_level_territory_view/atoid/890/wkb_geometry,name_fullua,koatuu). Змінним елементом URL є число (у прикладі це число 890). Числа варіюються від 0 (Україна) до приблизно 12050.
+[Межі областей, районів, міст обласного значення, селищних раз, сільських рад](http://atu.minregion.gov.ua/api/format/region_template/ato.ato_level_territory_view/atoid/890/wkb_geometry,name_fullua,koatuu). Змінним елементом URL є код (у прикладі це число 890). Числа варіюються від 0 (Україна) до приблизно 12050. Також знайдено дані за кодами від 24050 до 24500.
 
 [Межі населених пунктів](http://atu.minregion.gov.ua/api/format/settlement_template/ato.ato_all_city/atoid/8870140596641528/wkb_geometry,nameua,parent_list,koatuu). Змінним елементом URL є число (у прикладі це число 8870140596641528). Варіації чисел досі не встановлені. 
 
