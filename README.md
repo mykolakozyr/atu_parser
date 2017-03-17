@@ -1,3 +1,6 @@
+# UPD
+Офіційні дані адміністративно-територіального устрою доступні за [посиланням](https://github.com/justinelliotmeyers/official_ukraine_administrative_boundary_shapefile)
+
 # atu_parser
 
 [Геопортал адміністративно-територіального устрою (АТУ) України](http://atu.minregion.gov.ua/ua/karta) містить офіційну інформацію про межі кожного об'єкту АТУ.
